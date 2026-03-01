@@ -9,7 +9,7 @@ The system is designed to encourage open and unbiased opinions without requiring
 ## Key Features
 - Create public polls
 - Anonymous voting
-- Real-time vote count (if implemented)
+- Real-time vote count 
 - Responsive UI
 - Clean, minimal interface
 - Social discussion-based concept
